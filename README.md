@@ -1,8 +1,5 @@
 ## Hi there, I am Priya Garg 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Improving my skills and learn new skills day by day**
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 🤔 I’m looking for help with **skilled Developers who can guide me towards my full stack web development journey**
