@@ -1,8 +1,6 @@
 ## Hi there, I am Priya Garg 👋
 
 
-**gargpriya717/gargpriya717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Improving my skills and learn new skills day by day**
